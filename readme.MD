@@ -2,7 +2,7 @@ This project will allow you to create a Docker image on Raspberry Pi and run pre
 
 # Step 0: Lazy? ok, here is the docker image for you
 
-If you don't want to fully build the image, just use the prebuild image ```docker pull ellerbach/tensor_pillow_flask``` you will find details on [Docker Hub](docker pull ellerbach/tensor_pillow_flask)
+If you don't want to fully build the image, just use the prebuild image ```docker pull ellerbach/tensor_pillow_flask``` you will find details on [Docker Hub](https://hub.docker.com/r/ellerbach/tensor_pillow_flask/)
 
 You'll just need to make sure you have docker installed, the model and the labels in the app directory, and use the Dockerfile ```existing.Dockerfile``` to create and install the image.
 
